@@ -1,0 +1,44 @@
+.product-list {
+    padding: 20px;
+    
+  }
+  
+  .product-list table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #333; /* Set a default text color for the table */
+    margin-top: 20px;
+  }
+  
+  .product-list th, .product-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    color: #333; /* Set the text color for table cells */
+  }
+  
+  .product-list th {
+    background-color: #f4f4f4;
+    text-align: left;
+    color: #333; /* Set the text color for table headers */
+  }
+  
+  .product-list tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  .product-list img {
+    width: 100px;
+    height: auto;
+  }
+  .product-list button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    color: #000; /* Set the text color for buttons */
+  }
+  
+  .product-list button:hover {
+    background-color: #ddd;
+  }
+  
