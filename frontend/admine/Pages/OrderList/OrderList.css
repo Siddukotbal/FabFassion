@@ -1,0 +1,24 @@
+.order-list {
+    padding: 20px;
+  }
+  
+  .order-list h2 {
+    text-align: center;
+   
+  }
+  
+  .order-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .order-list li {
+    margin-bottom: 10px;
+  }
+  .order-table{
+    background-color: white;
+    color: black;
+    margin-top: 80px;
+    margin:0 auto;
+  }
+ 
